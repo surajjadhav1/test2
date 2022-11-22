@@ -1,0 +1,38 @@
+/*
+bool IsEven(int value)
+{
+        if(value%2 == 0)
+            return true;
+        return false;
+}
+
+bool IsOdd(int value)
+{
+        if(value%2 == 1)
+            return true;
+        return false;
+}
+
+bool IsPrime(int value)
+{
+        if(value == 1)
+            return false;
+
+        if(value == 2 || value==3)
+            return true;
+        
+        if(IsEven(value))
+            return false;
+        
+        if(IsOdd(value))
+        {
+            for(int i = 3; i * i<= value ;i += 2)
+			{
+				if((value) % i == 0)
+					return false;
+			}
+        }
+			return true;
+        
+}
+*/

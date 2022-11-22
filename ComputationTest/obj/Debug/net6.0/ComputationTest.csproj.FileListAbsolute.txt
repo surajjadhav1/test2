@@ -1,0 +1,15 @@
+D:\Exam Sahil\Problem1\ComputationTest\bin\Debug\net6.0\ComputationTest.exe
+D:\Exam Sahil\Problem1\ComputationTest\bin\Debug\net6.0\ComputationTest.deps.json
+D:\Exam Sahil\Problem1\ComputationTest\bin\Debug\net6.0\ComputationTest.runtimeconfig.json
+D:\Exam Sahil\Problem1\ComputationTest\bin\Debug\net6.0\ComputationTest.dll
+D:\Exam Sahil\Problem1\ComputationTest\bin\Debug\net6.0\ComputationTest.pdb
+D:\Exam Sahil\Problem1\ComputationTest\obj\Debug\net6.0\ComputationTest.csproj.AssemblyReference.cache
+D:\Exam Sahil\Problem1\ComputationTest\obj\Debug\net6.0\ComputationTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exam Sahil\Problem1\ComputationTest\obj\Debug\net6.0\ComputationTest.AssemblyInfoInputs.cache
+D:\Exam Sahil\Problem1\ComputationTest\obj\Debug\net6.0\ComputationTest.AssemblyInfo.cs
+D:\Exam Sahil\Problem1\ComputationTest\obj\Debug\net6.0\ComputationTest.csproj.CoreCompileInputs.cache
+D:\Exam Sahil\Problem1\ComputationTest\obj\Debug\net6.0\ComputationTest.dll
+D:\Exam Sahil\Problem1\ComputationTest\obj\Debug\net6.0\refint\ComputationTest.dll
+D:\Exam Sahil\Problem1\ComputationTest\obj\Debug\net6.0\ComputationTest.pdb
+D:\Exam Sahil\Problem1\ComputationTest\obj\Debug\net6.0\ComputationTest.genruntimeconfig.cache
+D:\Exam Sahil\Problem1\ComputationTest\obj\Debug\net6.0\ref\ComputationTest.dll
