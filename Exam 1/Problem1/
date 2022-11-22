@@ -1,0 +1,70 @@
+package school;
+
+abstract class Student{
+	private String Name;
+	private int Id;
+	private double grade;
+	private int age;
+	private String address;
+
+	public Student(){
+		Name ="A";
+		Id = 101;
+		age = 18;
+		address = "Mumbai";
+	}
+
+	public Student(String N, int id, double marks, int ag, String add){
+		Name = N;
+		Id = id;
+		grade = marks;
+		age = ag;
+		address = add;
+	}
+
+	public final String getName(){
+		return Name;
+	}
+
+	public final void setName(String N){
+		Name = N;
+	}
+
+	public final int getId(){
+		return Id;
+	}
+
+	public final void setId(int id){
+		Id = id;
+	}
+
+	public final double getGrade(){
+		return grade;
+	}
+
+	public final void setGrade(double marks){
+		grade = marks;
+	}
+
+	public final int getAge(){
+		return age;
+	}
+
+	public final void setAge(int ag){
+		age = ag;
+	}
+
+
+	public final String getAddress(){
+		return Name;
+	}
+
+	public final String setAddress(String add){
+		address = add;
+	}
+
+
+	public abstract boolean isPassed(double grade);
+}
+
+
