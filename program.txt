@@ -1,1 +1,7 @@
+
+program 1
 https://www.tutorialride.com/java-input-output-programs/insert-accept-display-student-details-java.htm
+
+
+program 2
+https://codeforever.in/define-an-abstract-class-staff-with-members-name-and-address-define-two-sub-classes-of-this-class-fulltimestaff-department-salary-and-part/
